@@ -19,7 +19,7 @@ This document walks through configuring real-time alerts from Amazon CloudWatch 
 - Use the default VPC and subnet, and create or select a security group that at least allows **SSH from your IP**.
 - Launch the instance and wait until its state becomes **running**.
 
-![EC2 instance running](images/cw-ec2.png)
+![EC2 instance running](docs/images/cw-ec2.png)
 
 ## Step 3 – Create a CloudWatch alarm on EC2 CPU
 
