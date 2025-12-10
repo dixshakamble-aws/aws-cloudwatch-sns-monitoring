@@ -9,7 +9,7 @@ This document walks through configuring real-time alerts from Amazon CloudWatch 
 - From the topic page, create an **Email** subscription with your email address.
 - Open your inbox and confirm the subscription so its status changes to **Confirmed**.
 
-![SNS topic](../images/<images/topic.png>)
+![SNS topic](images/topic.png)
 ![SNS email subscription](images/subcription-details.png)
 
 ## Step 2 – Launch an EC2 instance for metrics
