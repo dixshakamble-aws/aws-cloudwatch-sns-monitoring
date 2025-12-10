@@ -11,22 +11,22 @@ A CloudWatch alarm monitors an EC2 instance metric and sends notifications to an
 - The `images` directory stores all AWS console screenshots, which are referenced from the documentation in `docs/README.md`.
 
 # Technologies used
-AWS CloudWatch – metrics and alarms for EC2.
+- AWS CloudWatch – metrics and alarms for EC2.
 
-AWS SNS (Simple Notification Service) – topic and email subscription for alerts.
+- AWS SNS (Simple Notification Service) – topic and email subscription for alerts.
 
-Amazon EC2 – instance generating CPU metrics for the alarm.
+- Amazon EC2 – instance generating CPU metrics for the alarm.
 
-GitHub – documentation and versioning of the project.
+- GitHub – documentation and versioning of the project.
 
 # Features
-End‑to‑end CloudWatch → SNS → Email alert pipeline.
+- End‑to‑end CloudWatch → SNS → Email alert pipeline.
 
-Screenshot‑driven walkthrough of each configuration step in the AWS console.
+- Screenshot‑driven walkthrough of each configuration step in the AWS console.
 
-Notes on common issues (like Insufficient data state) and how to troubleshoot them.
+- Notes on common issues (like Insufficient data state) and how to troubleshoot them.
 
-Clean‑up steps to safely remove alarms, SNS topics, subscriptions, and EC2 instances.
+- Clean‑up steps to safely remove alarms, SNS topics, subscriptions, and EC2 instances.
 
 # Acknowledgments
 AWS official documentation for CloudWatch alarms, SNS topics, and EC2 basics.​
