@@ -1,5 +1,5 @@
 # aws-cloudwatch-sns-monitoring
-Automated Infrastructure Observability Pipeline | AWS (CloudWatch, SNS) -Real-time AWS CloudWatch + SNS alerting walkthrough with troubleshooting notes and screenshots.
+Automated Infrastructure Observability Pipeline | AWS (CloudWatch, SNS) ; Real-time AWS CloudWatch + SNS alerting walkthrough with troubleshooting notes and screenshots.
 
 # Overview
 This mini‑project demonstrates how to build a real‑time alerting pipeline on AWS using Amazon CloudWatch and Amazon SNS.
