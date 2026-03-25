@@ -1,4 +1,5 @@
 # AWS CloudWatch + SNS Monitoring – Step-by-Step
+Automated Infrastructure Observability Pipeline | AWS (CloudWatch, SNS)
 
 This document walks through configuring real-time alerts from Amazon CloudWatch to Amazon SNS, and cleaning up all resources afterward. It is based on a simple EC2 CPUUtilization alarm that sends email notifications.
 
